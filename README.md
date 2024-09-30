@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eddy Gardes</h1>
 <h3 align="center">Back-end & Mobile App Developer</h3>
-
-- 🌱 I’m currently learning **NestJS and Angular**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Ajoute ici tes liens de réseaux sociaux si nécessaire -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eddygardes&label=Profile%20views&color=0e75b6&style=flat" alt="eddygardes" />
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 
