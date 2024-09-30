@@ -18,5 +18,5 @@
 
 <h3 align="left">Tools & Platforms:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,docker,mongodb,git,linux,postman" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,gradle,docker,mongodb,mysql,git,github,jenkins,firebase,linux,postman" alt="Tools & Platforms" />
 </p>
