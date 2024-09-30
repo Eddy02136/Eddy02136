@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eddy Gardes</h1>
 <h3 align="center">Back-end & Mobile App Developer</h3>
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=eddygardes&label=Profile%20views&color=0e75b6&style=flat" alt="eddygardes" />
 </p>
 
@@ -30,8 +30,8 @@
 
 <h4 align="left">Frameworks & Libraries:</h4>
 <p align="left">
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
