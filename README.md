@@ -1,5 +1,5 @@
 <h1> Hi 👋, I'm Eddy Gardes</h1>
-<h3>Back-end & Mobile App Developer</h3>
+<h3>Web & Mobile App Developer</h3>
 <p>
   <img src="https://komarev.com/ghpvc/?username=eddygardes&label=Profile%20views&color=0e75b6&style=flat" alt="eddygardes" />
 </p>
