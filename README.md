@@ -8,15 +8,15 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,java,python,haskell" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,java,python,haskell,php" alt="Programming Languages" />
 </p>
 
 <h3 align="left">Frameworks & Libraries:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,nestjs,nodejs,express" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=angular,nestjs,nodejs,express,nextjs" alt="Frameworks & Libraries" />
 </p>
 
 <h3 align="left">Tools & Platforms:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,gradle,docker,mongodb,mysql,git,github,jenkins,firebase,linux,postman" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,gradle,docker,mongodb,mysql,git,github,gitlab,jenkins,firebase,linux,postman" alt="Tools & Platforms" />
 </p>
