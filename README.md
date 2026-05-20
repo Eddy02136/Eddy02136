@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=eddygardes&label=Profile%20views&color=0e75b6&style=flat" alt="eddygardes" />
 </p>
 
-<p>Open to internship opportunities — available from July 2026</p>
+<p>Open to internship opportunities - available from July 2026</p>
 
 <h2 align="left">Languages and Tools:</h2>
 
